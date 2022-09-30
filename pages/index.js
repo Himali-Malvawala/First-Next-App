@@ -24,11 +24,13 @@ export default function Home() {
           content="OccSaviors is a Community Based Occupational Health Ecosystem for Web3. Our mission to those that have been affected in the past and to “Be Their Voice” to bring awareness and education."
         />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="twitter:card" content="summary_large_image" key="twcard" />
         <meta name="twitter:title" content="Testing" />
         <meta
           name="twitter:description"
           content="OccSaviors is a Community Based Occupational Health Ecosystem for Web3. Our mission to those that have been affected in the past and to “Be Their Voice” to bring awareness and education."
         />
+        <meta name="twitter:image:src" content="/logo_2.png" />
       </Head>
 
       <main className={styles.main}>
